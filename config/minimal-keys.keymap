@@ -62,7 +62,7 @@
 &kp RCMD  &kp LEFT_ALT  &kp RIGHT_CONTROL  &mt LEFT_COMMAND CAPS  &lt 1 SPACE  &lt 3 ENTER    &lt 1 DEL  &lt 2 BACKSPACE                             &kp BACKSPACE
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOLUME_DOWN C_VOLUME_UP>;
+            sensor-bindings = <&inc_dec_kp K_SCROLL_DOWN K_SCROLL_UP>;
         };
 
         layer_1 {
